@@ -1,4 +1,4 @@
-[7.md](https://github.com/user-attachments/files/29463157/7.md)
+
 # 📊 Superstore Sales Intelligence — End-to-End Data Analytics Project
 
 A complete, portfolio-grade **retail sales analytics solution** built on the popular Superstore dataset. The project takes raw transactional data through a full analytics lifecycle — **cleaning, exploration, SQL business intelligence, visual storytelling, and an interactive Streamlit dashboard** — to surface the kind of insights an actual operations or revenue team would act on.
@@ -449,31 +449,12 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **HARI BABU C H**
 
-- **Role:** Frontend Developer | Data Analyst
-- **GitHub:** [github.com/haribabux7](https://github.com/haribabux7)
-- **LinkedIn:** [linkedin.com/in/haribabux7](https://www.linkedin.com/in/haribabux7)
-- **Portfolio:** [haribabu.me](https://www.haribabu.me)
-- **Email:** [haribabuc458@gmail.com](mailto:haribabuc458@gmail.com)
+Frontend Developer | Data Analyst | Chennai, India
+
+- 🌐 Portfolio: [https://www.haribabu.me](https://www.haribabu.me)
+- 💼 LinkedIn: [https://www.linkedin.com/in/haribabux8](https://www.linkedin.com/in/haribabux8)
+- 🐙 GitHub: [https://github.com/haribabux8](https://github.com/haribabux8)
+- 📧 Email: [haribabuc458@gmail.com](mailto:haribabuc458@gmail.com)
 
 ---
-
-## 🙏 Acknowledgements
-
-- **Open Source Libraries:** Pandas, NumPy, Plotly, Streamlit, Seaborn, Matplotlib, Jupyter.
-- **Dataset:** Tableau's public *Superstore* sample dataset.
-- **Learning Resources:** Kaggle community notebooks, Mode Analytics SQL tutorials, the official Streamlit gallery.
-- **Inspiration:** Real-world BI dashboards used in retail and e-commerce operations.
-- **Contributors:** Everyone who has opened an issue or sent a PR — thank you.
-
----
-
-## 📌 Project Information
-
-| Field | Value |
-|---|---|
-| Version | 1.0.0 |
-| Designed Date | November 2025 |
-| Author | Hari Babu C H |
-| License | MIT |
-| Status | Active |
 
